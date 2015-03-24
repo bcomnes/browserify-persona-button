@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Persona button CSS packaged for browserify",
   "main": "index.js",
-  "style": "persona-button.css",
+  "style": "persona-buttons.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
