@@ -1,5 +1,7 @@
 #persona-buttons
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/bcomnes/browserify-persona-buttons.svg)](https://greenkeeper.io/)
+
 This is a repackaged version of the persona buttons found at [eldargab/persona-buttons](https://github.com/eldargab/persona-buttons).
 
 It is packaged for publishing on npm for use with [npm-css](https://www.npmjs.com/package/npm-css) and [parcelify](https://www.npmjs.com/package/parcelify).
